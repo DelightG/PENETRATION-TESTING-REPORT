@@ -3,7 +3,7 @@
 ### 🔎 FOOTPRINTING & NETWORK SCANNING PHASES
 
 ![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-NETWORKWALKS-0B3A6E?style=for-the-badge)
-![Batch](https://img.shields.io/badge/BATCH-B0824-D4A017?style=for-the-badge)
+![Batch](https://img.shields.io/badge/BATCH-B084-D4A017?style=for-the-badge)
 ![Week](https://img.shields.io/badge/PROJECT-WEEK%2002-0B3A6E?style=for-the-badge)
 
 ### 👤 NDIDIAMAKA OKORIE
