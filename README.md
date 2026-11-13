@@ -8,7 +8,7 @@
 
 ### 👤 NDIDIAMAKA OKORIE
 
-Cybersecurity Learner | Networkwalks Intern | Batch B082
+Cybersecurity Learner | Networkwalks Intern | Batch B084
 
 ---
 
